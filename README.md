@@ -122,14 +122,16 @@ categorize and analyze their expenses.
 
 ## 📚 Currently Learning
 
-```text
-📊 Advanced Data Analytics
-🐍 Python
-🗄️ SQL
-📈 Power BI
-📑 Advanced Excel
-🧠 DSA
-🤖 Machine Learning
+- 📊 Advanced Data Analytics
+- 🐍 Python
+- 🗄️ SQL
+- 📈 Power BI
+- 📑 Advanced Excel
+- 🧠 DSA
+- 🤖 Machine Learning
+
+---
+
 ## 🐍 My Contribution Snake
 
 <p align="center">
