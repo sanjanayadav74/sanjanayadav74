@@ -149,6 +149,14 @@ categorize and analyze their expenses.
 
 ---
 
+## 📈 GitHub Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sanjanayadav74&theme=tokyo-night&hide_border=true" />
+</p>
+
+---
+
 ## 🐍 My Contribution Snake
 
 <p align="center">
