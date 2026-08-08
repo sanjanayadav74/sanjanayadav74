@@ -132,4 +132,6 @@ categorize and analyze their expenses.
 🤖 Machine Learning
 ## 🐍 My Contribution Snake
 
-![My Contribution Snake](https://github.com/sanjanayadav74/sanjanayadav74/blob/gh-pages/github-contribution-grid-snake.svg)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/sanjanayadav74/sanjanayadav74/gh-pages/github-contribution-grid-snake.svg" alt="Contribution Snake" />
+</p>
