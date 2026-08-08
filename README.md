@@ -130,3 +130,6 @@ categorize and analyze their expenses.
 📑 Advanced Excel
 🧠 DSA
 🤖 Machine Learning
+## 🐍 My Contribution Snake
+
+<img src="https://raw.githubusercontent.com/sanjanayadav74/sanjanayadav74/gh-pages/github-contribution-grid-snake.svg" />
