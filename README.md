@@ -10,7 +10,7 @@
   <a href="https://www.linkedin.com/in/sanjana-yadav-5226a0376/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin">
   </a>
-  <a href="YOUR_PORTFOLIO_URL">
+  <a href="https://sanjanayadav74.github.io/Sanjana-portfolio/">
     <img src="https://img.shields.io/badge/Portfolio-Visit-black?style=for-the-badge&logo=google-chrome">
   </a>
 </p>
