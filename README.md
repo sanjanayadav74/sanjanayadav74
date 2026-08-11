@@ -147,6 +147,11 @@ categorize and analyze their expenses.
   <img src="https://streak-stats.demolab.com?user=sanjanayadav74&theme=tokyonight&hide_border=true" />
 </p>
 
+## 🔥 GitHub Streak
+
+<p align="center">
+  <img src="./profile/streak.svg" alt="GitHub Streak" />
+</p>
 ---
 
 ## 📈 GitHub Activity
