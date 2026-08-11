@@ -7,7 +7,7 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2F81F7&center=true&vCenter=true&width=650&lines=Welcome+to+my+GitHub!;Data+Analytics+%7C+Python+%7C+SQL;Excel+%7C+Power+BI+%7C+Data+Visualization;Building+projects+and+learning+every+day!" />
 
 <p>
-  <a href="YOUR_LINKEDIN_URL">
+  <a href="https://www.linkedin.com/in/sanjana-yadav-5226a0376/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin">
   </a>
   <a href="YOUR_PORTFOLIO_URL">
